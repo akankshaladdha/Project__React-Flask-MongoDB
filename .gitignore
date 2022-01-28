@@ -1,0 +1,7 @@
+node_modules/
+Scripts/
+Lib/
+.package.json
+.package-lock.json
+frontend/node_modules/
+
